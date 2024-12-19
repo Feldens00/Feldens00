@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feldens00&label=Profile%20views&color=0e75b6&style=flat" alt="feldens00" /> </p>
 
-- 💬 Ask me about **PHP, Laravel, CodeIgniter e MySQL**
+- 💬 Ask me about **PHP, Laravel, CodeIgniter and MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
